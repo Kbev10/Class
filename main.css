@@ -1,0 +1,94 @@
+.header-img{
+        width: 50%;
+        height: 200px;
+        background: url('https://upload.wikimedia.org/wikipedia/commons/2/22/Red_Dead_Redemption_2_Logo.png');
+        background-size: cover;
+        float:left;
+        padding: 0
+}
+img {       margin-right: 10px;
+            margin-bottom: 10 px;
+            border: 2px solid black;
+            float: center; }
+body {
+            margin: 40px 20% 0 32px;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #872525;
+            font-size: 25px;
+            line-height: 28px;
+            background: 
+        }
+h2{
+    font-family: fantasy;
+}
+h1{
+    font-family: cursive, sans-serif;
+    font-size: 60px;
+    float: center;
+} 
+        h2 {
+            color: black
+        }
+        
+        div {
+            margin-bottom: 18px
+        }
+        
+        hr {
+          border: 1px solid #579;
+            margin: 22px 0
+        }
+p{
+    color: black;}    
+        
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left; /* If you want the text to be left-aligned on small screens */
+  }
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #872525;
+  color: #4f0b0b;
+    
+}  
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+div.background {
+  background: url(klematis.jpg) repeat;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+
+div.transbox p {
+  margin: 5%;
+  color: #000000;
+}
+
