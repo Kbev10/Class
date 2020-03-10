@@ -10,6 +10,10 @@ img {       margin-right: 10px;
             margin-bottom: 10 px;
             border: 2px solid black;
             float: center; }
+.header-home{margin-right: 10px;
+            margin-bottom: 10 px;
+            border: 2px solid black;
+            float: center;}
 body {
             margin: 40px 20% 0 32px;
             padding: 0;
@@ -80,6 +84,10 @@ font-style: normal;}
 .topnav {
   background-color: black;
   overflow: hidden;
+    font-family: mayence-premium,sans-serif;
+font-weight: 300;
+font-size: 900;
+font-style: normal;}
 }
 
 div.background {
@@ -96,8 +104,3 @@ div.transbox p {
   margin: 5%;
   color: #000000;
 }
-.topnav{
-font-family: mayence-premium,sans-serif;
-font-weight: 300;
-font-size: 900;
-font-style: normal;}
