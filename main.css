@@ -42,7 +42,10 @@ h1{
             margin: 22px 0
         }
 p{
-    color: black;}    
+    color: black;
+font-family: rooney-web, serif;
+font-weight: 400;
+font-style: normal;}    
         
 .topnav {
   background-color: #333;
@@ -93,4 +96,8 @@ div.transbox p {
   margin: 5%;
   color: #000000;
 }
-
+.topnav{
+font-family: mayence-premium,sans-serif;
+font-weight: 300;
+font-size: 900;
+font-style: normal;}
