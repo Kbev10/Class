@@ -15,10 +15,12 @@ img {       margin-right: 10px;
 body {
             margin: 40px 20% 0 32px;
             padding: 0;
-            background-image: url(https://images.wallpapersden.com/image/download/red-dead-redemption-2-game-2019_67494_3840x1978.jpg);
-            background-attachment: scroll;
+            background-image: url(https://i.pinimg.com/originals/4b/34/2a/4b342ad592c8bc629ddd813a6f1bb389.jpg);
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-repeat: no-repeat;
             line-height: 28px;
-            background-size: cover;
+            background-size: 100% 100%;
         }
 p{
 font-family: Arial, Helvetica, sans-serif;
@@ -27,7 +29,7 @@ color: white;
 font-family: rooney-web, serif;
 font-weight: 400;
 font-style: normal;
-
+background-color: black;
 }
 h2{
 font-family: mayence-premium,sans-serif;
@@ -56,6 +58,9 @@ h1{
 .topnav {
   background-color: #333;
   overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 /* Style the links inside the navigation bar */
@@ -105,7 +110,4 @@ div.transbox {
 div.transbox p {
   margin: 5%;
   color: #000000;
-}
-.Float_Image{
-    float: right;
 }
