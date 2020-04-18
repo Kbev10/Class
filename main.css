@@ -22,15 +22,7 @@ body {
             line-height: 28px;
             background-size: 100% 100%;
         }
-p{
-font-family: Arial, Helvetica, sans-serif;
-font-size: 20px;
-color: white;
-font-family: rooney-web, serif;
-font-weight: 400;
-font-style: normal;
-background-color: black;
-}
+
 h2{
 font-family: mayence-premium,sans-serif;
 font-weight: 1000;
@@ -111,8 +103,43 @@ div.transbox p {
   color: #000000;
 }
 
-.center
-{
-    
+.front-page{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: white;
+font-family: rooney-web, serif;
+font-weight: 400;
+font-style:normal;
+background-color: black;
+}
+
+.card mb-3 {
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: white;
+font-family: rooney-web, serif;
+font-weight: 400;
+font-style:normal;
+background-color: black;
+}
+.card{
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+color: black;
+font-family: rooney-web, serif;
+font-weight: 400;
+font-style:normal;
+} 
+
+.Gameplay{
+ font-family: mantinia, serif;
+font-weight: 400;
+    font-size: 30;
+font-style: normal;
+    color: black;
+    text-align: center;
+}
+
+.list-group{
     
 }
